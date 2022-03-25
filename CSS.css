@@ -2,7 +2,7 @@
 .FONDO{
     background-image: url("../JS/assets/images/POKEMON.jpg");
     background-repeat: no-repeat;
-    background-position: center;
+    background-position: center; z-index: 100
     background-size: cover;
     background-color: transparent;
     width: 1880px;
