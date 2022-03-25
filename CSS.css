@@ -47,7 +47,7 @@ input {
 .poke-card {
     position: relative; z-index: 100;
     top: 250px;
-    left: 370px;
+    left: 400px;
     height: fit-content;
     font-family: 'Roboto Mono', monospace;
     max-width: 300px;
