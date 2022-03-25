@@ -1,6 +1,6 @@
 
 .FONDO{
-    background-image: url("../JS/assets/images/POKEMON.jpg");
+    background-image: url("./assets/images/POKEMON.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -11,7 +11,7 @@
         }
 
 .pokedex{
-    background-image: url("../JS/assets/images/pokedex.png");
+    background-image: url("./assets/images/pokedex.png");
     position: absolute;
     top: 150px;
     left: 750px;
